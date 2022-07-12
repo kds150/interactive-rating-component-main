@@ -1,2 +1,2 @@
 # interactive-rating-component-main
-## [Google](https://interactive-rating-component-main-nine.vercel.app/)')
+## [Live](https://interactive-rating-component-main-nine.vercel.app/)
