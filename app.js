@@ -17,9 +17,11 @@ for (let i=0; i < taskBtn.length; i++) {
     })
 }
 
+
+
 submitBtn.addEventListener('click', () => {
-    ratingDiv.classList.add("close");
-    thankDiv.classList.add("active");
+    number != 0 && (ratingDiv.classList.add("close"),
+    thankDiv.classList.add("active"));
 })
 
 
